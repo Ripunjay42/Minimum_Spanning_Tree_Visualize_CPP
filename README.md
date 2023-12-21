@@ -2,9 +2,7 @@
 
 #Visualize the Graph using SFML library in c++..
 
-![Banner](https://ibb.co/b7Tnmfn)
 
+![orginal graph](https://ibb.co/b7Tnmfn)
 
-![Banner](https://ibb.co/b7Tnmfn)
-
-![Banner](https://ibb.co/FnZ6jc8)
+![MST](https://ibb.co/FnZ6jc8)
