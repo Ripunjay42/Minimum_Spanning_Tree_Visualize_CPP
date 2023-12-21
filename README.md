@@ -5,7 +5,7 @@
 #EXAMPLE:
 
 <h1>Original Graph</h1>
-![orginal graph](https://i.ibb.co/QrFzyb4/assign-2a.png)
+<p align="center"> <img src="https://i.ibb.co/QrFzyb4/assign-2a.png" alt="ripunjay42" /> </p>
 
 <h1>MST</h1>
-![MST](https://i.ibb.co/vDp8qt8/assign-2b.png)
+<p align="center"> <img src="https://i.ibb.co/vDp8qt8/assign-2b.png" alt="ripunjay42"/> </p>
